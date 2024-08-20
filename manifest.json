@@ -1,7 +1,7 @@
 {
   "id": "british-pronunciation",
   "name": "British Pronunciation",
-  "description": "A plugin to pronounce selected text in UK English accent",
+  "description": "A plugin to pronounce selected text in British English accent",
   "author": "Beomsu",
   "version": "1.0.0",
   "minAppVersion": "0.12.0",
