@@ -7,4 +7,4 @@ This plugin for Obsidian allows users to pronounce selected text using a UK Engl
 - Utilizes the Web Speech API to provide the text-to-speech functionality.
 - Lightweight and integrates seamlessly with Obsidian's native text editor.
 ## License
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
