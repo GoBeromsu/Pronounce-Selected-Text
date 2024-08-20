@@ -10,7 +10,7 @@ const DEFAULT_SETTINGS: MyPluginSettings = {
 	mySetting: 'default'
 }
 
-export default class UkPronunciationPlugin extends Plugin {
+export default class BritishPronunciationPlugin extends Plugin {
 
 	async onload() {
 		this.addCommand({
