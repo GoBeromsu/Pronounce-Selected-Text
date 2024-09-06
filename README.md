@@ -1,12 +1,12 @@
 # Pronounce Selected Text
 
-This plugin for Obsidian allows users to pronounce selected text using a UK English accent. The pronunciation is triggered via a command accessible from the command palette or a custom hotkey.
+This plugin for Obsidian allows users to pronounce selected text using various accents and languages. The pronunciation is triggered via a command accessible from the command palette or a custom hotkey.
 
 ## Features
 
-* Pronounces selected text in the Obsidian editor with a UK English accent (`en-GB`).
-* Utilizes the Web Speech API to provide the text-to-speech functionality.
-* Lightweight and integrates seamlessly with Obsidian's native text editor.
+-   Pronounces selected text in the Obsidian editor with various accents and languages.
+-   Utilizes the Web Speech API to provide the text-to-speech functionality.
+-   Lightweight and integrates seamlessly with Obsidian's native text editor.
 
 ## Installation
 
@@ -18,14 +18,15 @@ This plugin for Obsidian allows users to pronounce selected text using a UK Engl
 
 1. Select the text you want to pronounce in the Obsidian editor.
 2. Trigger the pronunciation via the command palette or a custom hotkey.
+3. Choose the desired language and accent from the available options.
 
 ## Roadmap
 
-* Support for additional accents and languages.
-* Customizable pronunciation speed and pitch.
-* Option to save and replay pronunciations.
-* Integration with other Obsidian plugins for enhanced functionality.
-* Offline text-to-speech support.
+-   Support for additional accents and languages.
+-   Customizable pronunciation speed and pitch.
+-   Option to save and replay pronunciations.
+-   Integration with other Obsidian plugins for enhanced functionality.
+-   Offline text-to-speech support.
 
 ## License
 
@@ -41,4 +42,4 @@ For support, please open an issue on the [GitHub repository](https://github.com/
 
 ## Authors and Acknowledgments
 
-Developed by \[Your Name\]. Special thanks to the Obsidian community for their support and contributions.
+Developed by Beomsu Koh. Special thanks to the Obsidian community for their support and contributions.
