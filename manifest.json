@@ -1,6 +1,6 @@
 {
-	"id": "british-pronunciation",
-	"name": "British Pronunciation",
+	"id": "pronounce-selected-text",
+	"name": "Pronounce Selected Text",
 	"description": "A plugin to pronounce selected text in British English accent",
 	"author": "Beomsu Koh",
 	"version": "1.0.5",
