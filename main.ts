@@ -24,6 +24,7 @@ export default class PronounceSelectedTextPlugin extends Plugin {
 			utterance.voice = britishVoice;
 		} else {
 			new Notice("British English voice not found");
+			utterance.voice = null;
 		}
 		speechSynthesis.speak(utterance);
 	}
