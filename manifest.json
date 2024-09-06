@@ -3,7 +3,7 @@
 	"name": "Pronounce Selected Text",
 	"description": "A plugin to pronounce selected text",
 	"author": "Beomsu Koh",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"minAppVersion": "0.12.0",
 	"isDesktopOnly": false
 }
