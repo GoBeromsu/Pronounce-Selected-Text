@@ -1,6 +1,6 @@
 {
 	"name": "pronounce-selected-text",
-	"version": "1.0.9",
+	"version": "1.1.0",
 	"description": "A plugin to pronounce selected text",
 	"main": "main.js",
 	"scripts": {
