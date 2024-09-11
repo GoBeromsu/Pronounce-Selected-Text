@@ -6,7 +6,7 @@ export default class PronounceSelectedTextPlugin extends Plugin {
 			id: "pronounce-selected-text",
 			name: "Pronounce selected text",
 			editorCheckCallback: (editor) => this.pronounceSelectedText(editor),
-			hotkeys: [],
+			hotkeys: [{ modifiers: ["Mod", "Alt"], key: "p" }],
 		});
 	}
 
