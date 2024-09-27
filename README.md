@@ -1,12 +1,12 @@
-# Pronounce Selected Text
+# Pronounce Selected Text Plugin for Obsidian
 
-This plugin for Obsidian allows users to pronounce selected text using various accents and languages. The pronunciation is triggered via a command accessible from the command palette or a custom hotkey.
+This plugin allows you to pronounce selected text in Obsidian using text-to-speech functionality provided by your browser.
 
 ## Features
 
--   Pronounces selected text in the Obsidian editor with various accents and languages.
--   Utilizes the Web Speech API to provide the text-to-speech functionality.
--   Lightweight and integrates seamlessly with Obsidian's native text editor.
+- Pronounce selected text using browser-supported voices
+- Adjustable speech rate
+- Easy to use with a simple command
 
 ## Installation
 
@@ -16,17 +16,20 @@ This plugin for Obsidian allows users to pronounce selected text using various a
 
 ## Usage
 
-1. Select the text you want to pronounce in the Obsidian editor.
-2. Trigger the pronunciation via the command palette or a custom hotkey.
-3. Choose the desired language and accent from the available options.
+1. Select the text you want to pronounce
+2. Use the command "Pronounce selected text" from the command palette
+3. The selected text will be pronounced using the chosen voice and speech rate
 
-## Roadmap
+## Configuration
 
--   Support for additional accents and languages.
--   Customizable pronunciation speed and pitch.
--   Option to save and replay pronunciations.
--   Integration with other Obsidian plugins for enhanced functionality.
--   Offline text-to-speech support.
+In the plugin settings, you can:
+- Select the voice for pronunciation (based on voices available in your browser)
+- Adjust the speech rate
+
+## Limitations
+
+- The available voices and languages depend on your browser and operating system.
+- No translation functionality is included; the plugin will attempt to pronounce the text as-is.
 
 ## License
 
